@@ -1,0 +1,8 @@
+Arduino D5  → RR servo signal
+Arduino D4  → RL servo signal
+Arduino D3  → YR servo signal
+Arduino D2  → YL servo signal
+
+External 5V + → All servo VCC wires
+External GND  → All servo GND wires
+Arduino GND   → External supply GND
